@@ -55,6 +55,6 @@ Our public GitHub repositories represent only the open-source portion of our wor
 
 **AI • Robotics • Automation • Autonomous Systems**
 
-Website: ai-robotic-automations.com
+Website: [ai-robotic-automations.com](https://ai-robotic-automations.com)
 
-GitHub: @RoboticAutomations
+GitHub: [@RoboticAutomations](https://github.com/RoboticAutomations)
